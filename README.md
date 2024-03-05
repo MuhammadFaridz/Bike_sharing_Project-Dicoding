@@ -37,5 +37,5 @@ pip install -r requirements.txt
 
 # cara run dashboard
 ```bash
-streamlit run app.py'
-'''
+streamlit run app.py
+```
