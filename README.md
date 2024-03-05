@@ -1,11 +1,12 @@
-#Proyek Analisis Data: Bike Sharing Dataset
+# Proyek Analisis Data: Bike Sharing Dataset
 
-##Menentukan Pertanyaan Bisnis
--bagaimana trend jumlah sewaan sepeda dalam beberapa tahun terakhir
--Bagaimana pola penggunaan sewaan sepeda berdasarkan waktu?
--Pada musim apa aktivitas sewaan sepeda tertinggi?
--Apakah cuaca mempengaruhi jumlah penyewaan sepeda?
--Apakah ada korelasi antara suhu yang mengindikasikan kondisi saat penyewaan sepeda sedang tinggi (Menggunakan teknik analisis lanjutan yaitu clustering)?
+## Menentukan Pertanyaan Bisnis
+- Bagaimana trend jumlah sewaan sepeda dalam beberapa tahun terakhir?
+- Bagaimana pola penggunaan sewaan sepeda berdasarkan waktu?
+- Pada musim apa aktivitas sewaan sepeda tertinggi?
+- Apakah cuaca mempengaruhi jumlah penyewaan sepeda?
+- Apakah ada korelasi antara suhu yang mengindikasikan kondisi saat penyewaan sepeda sedang tinggi (Menggunakan teknik analisis lanjutan yaitu clustering)?
+
 
 ## Insigth
 Conclution Pertanyaan 1: bagaimana trend jumlah sewaan sepeda dalam beberapa tahun terakhir?
