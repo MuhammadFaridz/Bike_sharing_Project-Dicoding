@@ -31,7 +31,11 @@ akses link berikut untuk melihat dasboard : ....
 
 # Run streamlit dilokal
 Untuk menginstal semua perpustakaan yang diperlukan, buka terminal/command prompt/conda prompt Anda, navigasikan ke folder proyek ini, dan jalankan perintah berikut:
-'pip install -r requirements.txt'
+```bash
+pip install -r requirements.txt
+```
 
 # cara run dashboard
-'streamlit run app.py'
+```bash
+streamlit run app.py'
+'''
