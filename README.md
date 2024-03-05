@@ -24,3 +24,14 @@ ya, Jumlah pengguna yang sewa sepeda sebagian besar dipengaruhi oleh kondisi cua
 Conclution pertanyaan 5: Apakah ada korelasi antara suhu yang mengindikasikan kondisi saat penyewaan sepeda sedang tinggi (Menggunakan teknik analisis lanjutan yaitu clustering)?
 
 ya, pada saat suhu lebih rendah jumlah penyewaan sepeda juga rendah. Hal ini terjadi selama musim dingin. dan Ketika suhu sedang tinggi, jumlah penyewaan sepeda juga meningkat. Hal ini terjadi selama musim panas. jumlah penyewaan sepeda yang tertinggi pada cluster musim gugur dan musim panas. yaitu pada suhu antara 20 hingga 30 derajat Celcius.
+
+
+# BIKE-SHARING DASHBOARD
+akses link berikut untuk melihat dasboard : ....
+
+# Run streamlit dilokal
+Untuk menginstal semua perpustakaan yang diperlukan, buka terminal/command prompt/conda prompt Anda, navigasikan ke folder proyek ini, dan jalankan perintah berikut:
+'pip install -r requirements.txt'
+
+# cara run dashboard
+'streamlit run app.py'
