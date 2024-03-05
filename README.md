@@ -27,7 +27,7 @@ ya, pada saat suhu lebih rendah jumlah penyewaan sepeda juga rendah. Hal ini ter
 
 
 # BIKE-SHARING DASHBOARD
-akses link berikut untuk melihat dasboard : ....
+akses link berikut untuk melihat dasboard : https://bikesharingproject-dicoding-mbu9hjzj7ppggrdzpfbwhp.streamlit.app/
 
 # Run streamlit dilokal
 Untuk menginstal semua perpustakaan yang diperlukan, buka terminal/command prompt/conda prompt Anda, navigasikan ke folder proyek ini, dan jalankan perintah berikut:
